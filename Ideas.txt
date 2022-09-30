@@ -1,0 +1,15 @@
+JaqueMate: 
+    - Verificador que haga el tema de 
+        - Ninguna 
+
+
+
+
+
+Orden del Trabajo 
+    - Identificar las piezas
+    - Plantear problemas para darle solucion atravez de metodos o clases
+    - Identificar atributos de cada clase del proyecto y metodos
+    - Dividir Tareas
+    - Realizar Tareas
+    - Salir vivos!!!!!! opcional; opcion 2: morir en el camino obligatoria
